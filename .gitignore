@@ -1,11 +1,13 @@
 
-.DS_Store
-
-.DS_Store
-
-examples/.DS_Store
+**/.DS_Store
 
 .metadata
 .project
 RemoteSystemsTempFiles
 
+.pio
+.pioenvs
+.piolibdeps
+.vscode
+.clang_complete
+.gcc-flags.json
